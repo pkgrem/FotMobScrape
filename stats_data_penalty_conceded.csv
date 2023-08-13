@@ -1,0 +1,4 @@
+id,teamId,nameAndSubstatValue,statValue,rank,type,statFormat,substatFormat
+212867,8586,"{'name': 'Heung-Min Son', 'substatValue': 1}",1,1,players,number,number
+201690,10204,"{'name': 'Lewis Dunk', 'substatValue': 1}",1,2,players,number,number
+369761,8346,"{'name': 'Tom Lockyer', 'substatValue': 1}",1,3,players,number,number

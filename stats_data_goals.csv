@@ -1,0 +1,26 @@
+id,teamId,nameAndSubstatValue,statValue,rank,type,statFormat,substatFormat
+690107,10261,"{'name': 'Alexander Isak', 'substatValue': 0}",2,1,players,number,number
+737066,8456,"{'name': 'Erling Haaland', 'substatValue': 0}",2,2,players,number,number
+696646,8455,"{'name': 'Axel Disasi', 'substatValue': 0}",1,3,players,number,number
+262550,9879,"{'name': 'Bobby Reid', 'substatValue': 0}",1,4,players,number,number
+961995,9825,"{'name': 'Bukayo Saka', 'substatValue': 0}",1,5,players,number,number
+184321,10261,"{'name': 'Callum Wilson', 'substatValue': 0}",1,6,players,number,number
+789066,8586,"{'name': 'Cristian Romero', 'substatValue': 0}",1,7,players,number,number
+591734,8678,"{'name': 'Dominic Solanke', 'substatValue': 0}",1,8,players,number,number
+860920,9825,"{'name': 'Edward Nketiah', 'substatValue': 0}",1,9,players,number,number
+797908,8586,"{'name': 'Emerson Royal', 'substatValue': 0}",1,10,players,number,number
+1068482,10204,"{'name': 'Evan Ferguson', 'substatValue': 0}",1,11,players,number,number
+760359,10261,"{'name': 'Harvey Barnes', 'substatValue': 0}",1,12,players,number,number
+523825,8654,"{'name': 'Jarrod Bowen', 'substatValue': 0}",1,13,players,number,number
+860914,8650,"{'name': 'Luis Diaz', 'substatValue': 0}",1,14,players,number,number
+923498,10252,"{'name': 'Moussa Diaby', 'substatValue': 0}",1,15,players,number,number
+637746,9826,"{'name': 'Odsonne Edouard', 'substatValue': 0}",1,16,players,number,number
+675088,8456,"{'name': 'Rodri', 'substatValue': 0}",1,17,players,number,number
+867414,10261,"{'name': 'Sandro Tonali', 'substatValue': 0}",1,18,players,number,number
+1227012,10204,"{'name': 'Simon Adingra', 'substatValue': 0}",1,19,players,number,number
+416850,10204,"{'name': 'Solly March', 'substatValue': 0}",1,20,players,number,number
+643717,10203,"{'name': 'Taiwo Awoniyi', 'substatValue': 0}",1,21,players,number,number
+666857,9937,"{'name': 'Yoane Wissa', 'substatValue': 0}",1,22,players,number,number
+923312,9937,"{'name': 'Bryan Mbeumo', 'substatValue': 1}",1,23,players,number,number
+562725,8346,"{'name': 'Carlton Morris', 'substatValue': 1}",1,24,players,number,number
+1021382,10204,"{'name': 'Joao Pedro', 'substatValue': 1}",1,25,players,number,number

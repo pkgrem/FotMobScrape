@@ -1,0 +1,24 @@
+id,teamId,nameAndSubstatValue,statValue,rank,type,statFormat,substatFormat
+1197347,8455,"{'name': 'Nicolas Jackson', 'substatValue': '0.0%'}",3,1,players,number,percent
+391064,8668,"{'name': 'Neal Maupay', 'substatValue': '0.0%'}",2,2,players,number,percent
+690107,10261,"{'name': 'Alexander Isak', 'substatValue': '66.7%'}",1,3,players,number,percent
+867414,10261,"{'name': 'Sandro Tonali', 'substatValue': '50.0%'}",1,4,players,number,percent
+923312,9937,"{'name': 'Bryan Mbeumo', 'substatValue': '25.0%'}",1,5,players,number,percent
+184321,10261,"{'name': 'Callum Wilson', 'substatValue': '25.0%'}",1,6,players,number,percent
+923498,10252,"{'name': 'Moussa Diaby', 'substatValue': '25.0%'}",1,7,players,number,percent
+262550,9879,"{'name': 'Bobby Reid', 'substatValue': '20.0%'}",1,8,players,number,percent
+1021382,10204,"{'name': 'Joao Pedro', 'substatValue': '20.0%'}",1,9,players,number,percent
+860914,8650,"{'name': 'Luis Diaz', 'substatValue': '16.7%'}",1,10,players,number,percent
+637746,9826,"{'name': 'Odsonne Edouard', 'substatValue': '10.0%'}",1,11,players,number,percent
+352887,8668,"{'name': 'Abdoulaye Doucouré', 'substatValue': '0.0%'}",1,12,players,number,percent
+672469,8455,"{'name': 'Ben Chilwell', 'substatValue': '0.0%'}",1,13,players,number,percent
+1076756,10203,"{'name': 'Brennan Johnson', 'substatValue': '0.0%'}",1,14,players,number,percent
+266520,9937,"{'name': 'Christian Nørgaard', 'substatValue': '0.0%'}",1,15,players,number,percent
+535936,10261,"{'name': 'Joelinton', 'substatValue': '0.0%'}",1,16,players,number,percent
+1083796,9937,"{'name': 'Kevin Schade', 'substatValue': '0.0%'}",1,17,players,number,percent
+729731,10252,"{'name': 'Matty Cash', 'substatValue': '0.0%'}",1,18,players,number,percent
+1112684,8668,"{'name': 'Nathan Patterson', 'substatValue': '0.0%'}",1,19,players,number,percent
+167008,10204,"{'name': 'Pascal Gross', 'substatValue': '0.0%'}",1,20,players,number,percent
+498532,8346,"{'name': 'Pelly-Ruddock Mpanzu', 'substatValue': '0.0%'}",1,21,players,number,percent
+815006,8456,"{'name': 'Phil Foden', 'substatValue': '0.0%'}",1,22,players,number,percent
+524437,8654,"{'name': 'Tomas Soucek', 'substatValue': '0.0%'}",1,23,players,number,percent

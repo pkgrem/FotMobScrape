@@ -1,0 +1,43 @@
+id,teamId,nameAndSubstatValue,statValue,rank,type,statFormat,substatFormat
+724306,8586,"{'name': 'Yves Bissouma', 'substatValue': '83.3%'}",5.0,1,players,fraction,percent
+523825,8654,"{'name': 'Jarrod Bowen', 'substatValue': '66.7%'}",4.0,2,players,fraction,percent
+604785,8668,"{'name': 'Alex Iwobi', 'substatValue': '75.0%'}",3.0,3,players,fraction,percent
+214570,9826,"{'name': 'Jeffrey Schlupp', 'substatValue': '75.0%'}",3.0,4,players,fraction,percent
+562892,9937,"{'name': 'Rico Henry', 'substatValue': '75.0%'}",3.0,5,players,fraction,percent
+654908,8586,"{'name': 'Richarlison', 'substatValue': '60.0%'}",3.0,6,players,fraction,percent
+789502,10203,"{'name': 'Morgan Gibbs-White', 'substatValue': '42.9%'}",3.0,7,players,fraction,percent
+831489,8650,"{'name': 'Alexis Mac Allister', 'substatValue': '100.0%'}",2.0,8,players,fraction,percent
+816325,10252,"{'name': 'Boubacar Kamara', 'substatValue': '100.0%'}",2.0,9,players,fraction,percent
+818975,9826,"{'name': 'Eberechi Eze', 'substatValue': '100.0%'}",2.0,10,players,fraction,percent
+1137705,8455,"{'name': 'Enzo Fernández', 'substatValue': '100.0%'}",2.0,11,players,fraction,percent
+503659,9826,"{'name': 'Joachim Andersen', 'substatValue': '100.0%'}",2.0,12,players,fraction,percent
+1097466,8586,"{'name': 'Micky van de Ven', 'substatValue': '100.0%'}",2.0,13,players,fraction,percent
+1197347,8455,"{'name': 'Nicolas Jackson', 'substatValue': '100.0%'}",2.0,14,players,fraction,percent
+637746,9826,"{'name': 'Odsonne Edouard', 'substatValue': '66.7%'}",2.0,15,players,fraction,percent
+540088,10252,"{'name': 'Ollie Watkins', 'substatValue': '66.7%'}",2.0,16,players,fraction,percent
+613182,8678,"{'name': 'Joe Rothwell', 'substatValue': '50.0%'}",2.0,17,players,fraction,percent
+793820,8657,"{'name': 'Anel Ahmedhodzic', 'substatValue': '100.0%'}",1.0,18,players,fraction,percent
+562725,8346,"{'name': 'Carlton Morris', 'substatValue': '100.0%'}",1.0,19,players,fraction,percent
+966027,8455,"{'name': 'Conor Gallagher', 'substatValue': '100.0%'}",1.0,20,players,fraction,percent
+935379,8586,"{'name': 'Dejan Kulusevski', 'substatValue': '100.0%'}",1.0,21,players,fraction,percent
+787350,10252,"{'name': 'Douglas Luiz', 'substatValue': '100.0%'}",1.0,22,players,fraction,percent
+710159,10252,"{'name': 'Ezri Konsa', 'substatValue': '100.0%'}",1.0,23,players,fraction,percent
+199494,8657,"{'name': 'George Baldock', 'substatValue': '100.0%'}",1.0,24,players,fraction,percent
+494417,9879,"{'name': 'Harry Wilson', 'substatValue': '100.0%'}",1.0,25,players,fraction,percent
+466672,9826,"{'name': 'Jefferson Lerma', 'substatValue': '100.0%'}",1.0,26,players,fraction,percent
+191869,10261,"{'name': 'Kieran Trippier', 'substatValue': '100.0%'}",1.0,27,players,fraction,percent
+1096400,8455,"{'name': 'Levi Colwill', 'substatValue': '100.0%'}",1.0,28,players,fraction,percent
+167008,10204,"{'name': 'Pascal Gross', 'substatValue': '100.0%'}",1.0,29,players,fraction,percent
+688278,10204,"{'name': 'Pervis Estupinán', 'substatValue': '100.0%'}",1.0,30,players,fraction,percent
+434325,9825,"{'name': 'Thomas Partey', 'substatValue': '100.0%'}",1.0,31,players,fraction,percent
+1120224,9826,"{'name': 'Tyrick Mitchell', 'substatValue': '100.0%'}",1.0,32,players,fraction,percent
+23354,8668,"{'name': 'Ashley Young', 'substatValue': '50.0%'}",1.0,33,players,fraction,percent
+154280,9826,"{'name': 'Jordan Ayew', 'substatValue': '50.0%'}",1.0,34,players,fraction,percent
+862608,10204,"{'name': 'Kaoru Mitoma', 'substatValue': '50.0%'}",1.0,35,players,fraction,percent
+469804,9879,"{'name': 'Kenny Tete', 'substatValue': '50.0%'}",1.0,36,players,fraction,percent
+815006,8456,"{'name': 'Phil Foden', 'substatValue': '50.0%'}",1.0,37,players,fraction,percent
+532743,8678,"{'name': 'Philip Billing', 'substatValue': '50.0%'}",1.0,38,players,fraction,percent
+491883,8654,"{'name': 'Said Benrahma', 'substatValue': '50.0%'}",1.0,39,players,fraction,percent
+591734,8678,"{'name': 'Dominic Solanke', 'substatValue': '33.3%'}",1.0,40,players,fraction,percent
+797908,8586,"{'name': 'Emerson Royal', 'substatValue': '33.3%'}",1.0,41,players,fraction,percent
+1195281,8678,"{'name': 'Milos Kerkez', 'substatValue': '33.3%'}",1.0,42,players,fraction,percent

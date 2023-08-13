@@ -1,0 +1,19 @@
+id,teamId,nameAndSubstatValue,statValue,rank,type,statFormat,substatFormat
+493165,8586,"{'name': 'James Maddison', 'substatValue': '0.9'}",2,1,players,number,fraction
+688278,10204,"{'name': 'Pervis Estupinán', 'substatValue': '0.9'}",1,2,players,number,fraction
+1050166,10203,"{'name': 'Anthony Elanga', 'substatValue': '0.6'}",1,3,players,number,fraction
+862608,10204,"{'name': 'Kaoru Mitoma', 'substatValue': '0.6'}",1,4,players,number,fraction
+562892,9937,"{'name': 'Rico Henry', 'substatValue': '0.6'}",1,5,players,number,fraction
+760359,10261,"{'name': 'Harvey Barnes', 'substatValue': '0.5'}",1,6,players,number,fraction
+154280,9826,"{'name': 'Jordan Ayew', 'substatValue': '0.5'}",1,7,players,number,fraction
+906937,10261,"{'name': 'Anthony Gordon', 'substatValue': '0.4'}",1,8,players,number,fraction
+974753,8456,"{'name': 'Julián Álvarez', 'substatValue': '0.4'}",1,9,players,number,fraction
+521148,10261,"{'name': 'Jacob Murphy', 'substatValue': '0.3'}",1,10,players,number,fraction
+292462,8650,"{'name': 'Mohamed Salah', 'substatValue': '0.3'}",1,11,players,number,fraction
+956682,10261,"{'name': 'Sven Botman', 'substatValue': '0.3'}",1,12,players,number,fraction
+672469,8455,"{'name': 'Ben Chilwell', 'substatValue': '0.2'}",1,13,players,number,fraction
+1021586,9825,"{'name': 'Gabriel Martinelli', 'substatValue': '0.2'}",1,14,players,number,fraction
+675088,8456,"{'name': 'Rodri', 'substatValue': '0.2'}",1,15,players,number,fraction
+540088,10252,"{'name': 'Ollie Watkins', 'substatValue': '0.1'}",1,16,players,number,fraction
+524437,8654,"{'name': 'Tomas Soucek', 'substatValue': '0.0'}",1,17,players,number,fraction
+955406,9825,"{'name': 'William Saliba', 'substatValue': '0.0'}",1,18,players,number,fraction

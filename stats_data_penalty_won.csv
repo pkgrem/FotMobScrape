@@ -1,0 +1,3 @@
+id,teamId,nameAndSubstatValue,statValue,rank,type,statFormat,substatFormat
+650616,9937,"{'name': 'Mathias Jensen', 'substatValue': '5.5'}",1,1,players,number,fraction
+1021382,10204,"{'name': 'Joao Pedro', 'substatValue': '5.1'}",1,2,players,number,fraction

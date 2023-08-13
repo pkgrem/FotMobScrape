@@ -1,0 +1,19 @@
+id,teamId,nameAndSubstatValue,statValue,rank,type,statFormat,substatFormat
+215168,9879,"{'name': 'Bernd Leno', 'substatValue': 0}",100.0%,1,players,percent,number
+363364,8456,"{'name': 'Ederson Moraes', 'substatValue': 0}",100.0%,2,players,percent,number
+280287,9826,"{'name': 'Sam Johnstone', 'substatValue': 0}",100.0%,3,players,percent,number
+212944,8657,"{'name': 'Wesley Foderingham', 'substatValue': 1}",87.5%,4,players,percent,number
+280484,10261,"{'name': 'Nick Pope', 'substatValue': 1}",83.3%,5,players,percent,number
+319784,8650,"{'name': 'Alisson Becker', 'substatValue': 1}",80.0%,6,players,percent,number
+210164,8654,"{'name': 'Alphonse Areola', 'substatValue': 1}",80.0%,7,players,percent,number
+729988,10203,"{'name': 'Matt Turner', 'substatValue': 2}",71.4%,8,players,percent,number
+131408,8346,"{'name': 'Thomas Kaminski', 'substatValue': 4}",66.7%,9,players,percent,number
+538501,8586,"{'name': 'Guglielmo Vicario', 'substatValue': 2}",66.7%,10,players,percent,number
+330643,9937,"{'name': 'Mark Flekken', 'substatValue': 2}",66.7%,11,players,percent,number
+107917,10204,"{'name': 'Jason Steele', 'substatValue': 1}",66.7%,12,players,percent,number
+1187213,8191,"{'name': 'James Trafford', 'substatValue': 3}",62.5%,13,players,percent,number
+268375,10252,"{'name': 'Emiliano Martinez', 'substatValue': 5}",58.3%,14,players,percent,number
+746395,9825,"{'name': 'Aaron Ramsdale', 'substatValue': 1}",50.0%,15,players,percent,number
+303919,8668,"{'name': 'Jordan Pickford', 'substatValue': 1}",50.0%,16,players,percent,number
+176186,8678,"{'name': 'Neto', 'substatValue': 1}",50.0%,17,players,percent,number
+789571,8455,"{'name': 'Robert Sánchez', 'substatValue': 1}",0.0%,18,players,percent,number

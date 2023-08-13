@@ -1,0 +1,19 @@
+id,teamId,nameAndSubstatValue,statValue,rank,type,statFormat,substatFormat
+215168,9879,"{'name': 'Bernd Leno', 'substatValue': 0}",3.3,1,players,fraction,number
+131408,8346,"{'name': 'Thomas Kaminski', 'substatValue': 4}",0.9,2,players,fraction,number
+212944,8657,"{'name': 'Wesley Foderingham', 'substatValue': 1}",0.9,3,players,fraction,number
+268375,10252,"{'name': 'Emiliano Martinez', 'substatValue': 5}",0.8,4,players,fraction,number
+280484,10261,"{'name': 'Nick Pope', 'substatValue': 1}",0.8,5,players,fraction,number
+319784,8650,"{'name': 'Alisson Becker', 'substatValue': 1}",0.4,6,players,fraction,number
+210164,8654,"{'name': 'Alphonse Areola', 'substatValue': 1}",0.4,7,players,fraction,number
+107917,10204,"{'name': 'Jason Steele', 'substatValue': 1}",0.1,8,players,fraction,number
+303919,8668,"{'name': 'Jordan Pickford', 'substatValue': 1}",0.1,9,players,fraction,number
+729988,10203,"{'name': 'Matt Turner', 'substatValue': 2}",0.0,10,players,fraction,number
+363364,8456,"{'name': 'Ederson Moraes', 'substatValue': 0}",0.0,11,players,fraction,number
+280287,9826,"{'name': 'Sam Johnstone', 'substatValue': 0}",0.0,12,players,fraction,number
+746395,9825,"{'name': 'Aaron Ramsdale', 'substatValue': 1}",-0.1,13,players,fraction,number
+789571,8455,"{'name': 'Robert Sánchez', 'substatValue': 1}",-0.2,14,players,fraction,number
+1187213,8191,"{'name': 'James Trafford', 'substatValue': 3}",-0.3,15,players,fraction,number
+538501,8586,"{'name': 'Guglielmo Vicario', 'substatValue': 2}",-0.3,16,players,fraction,number
+176186,8678,"{'name': 'Neto', 'substatValue': 1}",-0.3,17,players,fraction,number
+330643,9937,"{'name': 'Mark Flekken', 'substatValue': 2}",-0.9,18,players,fraction,number

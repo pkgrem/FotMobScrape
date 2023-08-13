@@ -1,0 +1,34 @@
+id,teamId,nameAndSubstatValue,statValue,rank,type,statFormat,substatFormat
+654096,9825,"{'name': 'Declan Rice', 'substatValue': '100.0%'}",3.0,1,players,fraction,percent
+675088,8456,"{'name': 'Rodri', 'substatValue': '75.0%'}",3.0,2,players,fraction,percent
+637746,9826,"{'name': 'Odsonne Edouard', 'substatValue': '42.9%'}",3.0,3,players,fraction,percent
+503659,9826,"{'name': 'Joachim Andersen', 'substatValue': '100.0%'}",2.0,4,players,fraction,percent
+290410,8668,"{'name': 'Michael Keane', 'substatValue': '100.0%'}",2.0,5,players,fraction,percent
+923312,9937,"{'name': 'Bryan Mbeumo', 'substatValue': '66.7%'}",2.0,6,players,fraction,percent
+961995,9825,"{'name': 'Bukayo Saka', 'substatValue': '66.7%'}",2.0,7,players,fraction,percent
+591734,8678,"{'name': 'Dominic Solanke', 'substatValue': '66.7%'}",2.0,8,players,fraction,percent
+688278,10204,"{'name': 'Pervis Estupinán', 'substatValue': '66.7%'}",2.0,9,players,fraction,percent
+604785,8668,"{'name': 'Alex Iwobi', 'substatValue': '50.0%'}",2.0,10,players,fraction,percent
+562725,8346,"{'name': 'Carlton Morris', 'substatValue': '50.0%'}",2.0,11,players,fraction,percent
+1197347,8455,"{'name': 'Nicolas Jackson', 'substatValue': '50.0%'}",2.0,12,players,fraction,percent
+1185748,8668,"{'name': 'Amadou Onana', 'substatValue': '100.0%'}",1.0,13,players,fraction,percent
+951954,9826,"{'name': 'Cheick Oumar Doucouré', 'substatValue': '100.0%'}",1.0,14,players,fraction,percent
+797908,8586,"{'name': 'Emerson Royal', 'substatValue': '100.0%'}",1.0,15,players,fraction,percent
+974618,10204,"{'name': 'Jan Paul van Hecke', 'substatValue': '100.0%'}",1.0,16,players,fraction,percent
+535936,10261,"{'name': 'Joelinton', 'substatValue': '100.0%'}",1.0,17,players,fraction,percent
+688273,9937,"{'name': 'Vitaly Janelt', 'substatValue': '100.0%'}",1.0,18,players,fraction,percent
+246331,10203,"{'name': 'Willy Boly', 'substatValue': '100.0%'}",1.0,19,players,fraction,percent
+352887,8668,"{'name': 'Abdoulaye Doucouré', 'substatValue': '50.0%'}",1.0,20,players,fraction,percent
+696646,8455,"{'name': 'Axel Disasi', 'substatValue': '50.0%'}",1.0,21,players,fraction,percent
+493165,8586,"{'name': 'James Maddison', 'substatValue': '50.0%'}",1.0,22,players,fraction,percent
+214570,9826,"{'name': 'Jeffrey Schlupp', 'substatValue': '50.0%'}",1.0,23,players,fraction,percent
+154280,9826,"{'name': 'Jordan Ayew', 'substatValue': '50.0%'}",1.0,24,players,fraction,percent
+210971,8657,"{'name': 'Oliver Norwood', 'substatValue': '50.0%'}",1.0,25,players,fraction,percent
+540088,10252,"{'name': 'Ollie Watkins', 'substatValue': '50.0%'}",1.0,26,players,fraction,percent
+654908,8586,"{'name': 'Richarlison', 'substatValue': '50.0%'}",1.0,27,players,fraction,percent
+491883,8654,"{'name': 'Said Benrahma', 'substatValue': '50.0%'}",1.0,28,players,fraction,percent
+974753,8456,"{'name': 'Julián Álvarez', 'substatValue': '33.3%'}",1.0,29,players,fraction,percent
+167008,10204,"{'name': 'Pascal Gross', 'substatValue': '33.3%'}",1.0,30,players,fraction,percent
+815006,8456,"{'name': 'Phil Foden', 'substatValue': '33.3%'}",1.0,31,players,fraction,percent
+787350,10252,"{'name': 'Douglas Luiz', 'substatValue': '25.0%'}",1.0,32,players,fraction,percent
+523825,8654,"{'name': 'Jarrod Bowen', 'substatValue': '16.7%'}",1.0,33,players,fraction,percent

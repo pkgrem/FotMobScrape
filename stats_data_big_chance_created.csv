@@ -1,0 +1,31 @@
+id,teamId,nameAndSubstatValue,statValue,rank,type,statFormat,substatFormat
+906937,10261,"{'name': 'Anthony Gordon', 'substatValue': 1}",2,1,players,number,number
+760359,10261,"{'name': 'Harvey Barnes', 'substatValue': 1}",2,2,players,number,number
+688278,10204,"{'name': 'Pervis Estupinán', 'substatValue': 1}",2,3,players,number,number
+562892,9937,"{'name': 'Rico Henry', 'substatValue': 1}",2,4,players,number,number
+1185748,8668,"{'name': 'Amadou Onana', 'substatValue': 0}",2,5,players,number,number
+807729,8455,"{'name': 'Reece James', 'substatValue': 0}",2,6,players,number,number
+493165,8586,"{'name': 'James Maddison', 'substatValue': 2}",1,7,players,number,number
+1050166,10203,"{'name': 'Anthony Elanga', 'substatValue': 1}",1,8,players,number,number
+672469,8455,"{'name': 'Ben Chilwell', 'substatValue': 1}",1,9,players,number,number
+521148,10261,"{'name': 'Jacob Murphy', 'substatValue': 1}",1,10,players,number,number
+154280,9826,"{'name': 'Jordan Ayew', 'substatValue': 1}",1,11,players,number,number
+862608,10204,"{'name': 'Kaoru Mitoma', 'substatValue': 1}",1,12,players,number,number
+292462,8650,"{'name': 'Mohamed Salah', 'substatValue': 1}",1,13,players,number,number
+675088,8456,"{'name': 'Rodri', 'substatValue': 1}",1,14,players,number,number
+956682,10261,"{'name': 'Sven Botman', 'substatValue': 1}",1,15,players,number,number
+352887,8668,"{'name': 'Abdoulaye Doucouré', 'substatValue': 0}",1,16,players,number,number
+846005,8650,"{'name': 'Dominik Szoboszlai', 'substatValue': 0}",1,17,players,number,number
+787350,10252,"{'name': 'Douglas Luiz', 'substatValue': 0}",1,18,players,number,number
+818975,9826,"{'name': 'Eberechi Eze', 'substatValue': 0}",1,19,players,number,number
+1137705,8455,"{'name': 'Enzo Fernández', 'substatValue': 0}",1,20,players,number,number
+494417,9879,"{'name': 'Harry Wilson', 'substatValue': 0}",1,21,players,number,number
+1099974,8346,"{'name': 'Issa Kaboré', 'substatValue': 0}",1,22,players,number,number
+523825,8654,"{'name': 'Jarrod Bowen', 'substatValue': 0}",1,23,players,number,number
+191869,10261,"{'name': 'Kieran Trippier', 'substatValue': 0}",1,24,players,number,number
+1096400,8455,"{'name': 'Levi Colwill', 'substatValue': 0}",1,25,players,number,number
+239219,8456,"{'name': 'Mateo Kovacic', 'substatValue': 0}",1,26,players,number,number
+71908,9937,"{'name': 'Mathias Jørgensen', 'substatValue': 0}",1,27,players,number,number
+442277,10261,"{'name': 'Miguel Almiron', 'substatValue': 0}",1,28,players,number,number
+167008,10204,"{'name': 'Pascal Gross', 'substatValue': 0}",1,29,players,number,number
+246331,10203,"{'name': 'Willy Boly', 'substatValue': 0}",1,30,players,number,number

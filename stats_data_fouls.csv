@@ -1,0 +1,69 @@
+id,teamId,nameAndSubstatValue,statValue,rank,type,statFormat,substatFormat
+816325,10252,"{'name': 'Boubacar Kamara', 'substatValue': 0}",4.0,1,players,fraction,number
+793820,8657,"{'name': 'Anel Ahmedhodzic', 'substatValue': 1}",3.0,2,players,fraction,number
+493165,8586,"{'name': 'James Maddison', 'substatValue': 1}",3.0,3,players,fraction,number
+1258092,8657,"{'name': 'William Osula', 'substatValue': 1}",3.0,4,players,fraction,number
+1185748,8668,"{'name': 'Amadou Onana', 'substatValue': 0}",3.0,5,players,fraction,number
+923312,9937,"{'name': 'Bryan Mbeumo', 'substatValue': 0}",3.0,6,players,fraction,number
+846005,8650,"{'name': 'Dominik Szoboszlai', 'substatValue': 0}",3.0,7,players,fraction,number
+243138,8668,"{'name': 'James Tarkowski', 'substatValue': 0}",3.0,8,players,fraction,number
+831489,8650,"{'name': 'Alexis Mac Allister', 'substatValue': 1}",2.0,9,players,fraction,number
+267371,8654,"{'name': 'Emerson', 'substatValue': 1}",2.0,10,players,fraction,number
+523825,8654,"{'name': 'Jarrod Bowen', 'substatValue': 1}",2.0,11,players,fraction,number
+469804,9879,"{'name': 'Kenny Tete', 'substatValue': 1}",2.0,12,players,fraction,number
+688278,10204,"{'name': 'Pervis Estupinán', 'substatValue': 1}",2.0,13,players,fraction,number
+23354,8668,"{'name': 'Ashley Young', 'substatValue': 0}",2.0,14,players,fraction,number
+961995,9825,"{'name': 'Bukayo Saka', 'substatValue': 0}",2.0,15,players,fraction,number
+951954,9826,"{'name': 'Cheick Oumar Doucouré', 'substatValue': 0}",2.0,16,players,fraction,number
+654096,9825,"{'name': 'Declan Rice', 'substatValue': 0}",2.0,17,players,fraction,number
+710159,10252,"{'name': 'Ezri Konsa', 'substatValue': 0}",2.0,18,players,fraction,number
+199494,8657,"{'name': 'George Baldock', 'substatValue': 0}",2.0,19,players,fraction,number
+820140,8650,"{'name': 'Ibrahima Konaté', 'substatValue': 0}",2.0,20,players,fraction,number
+179410,8668,"{'name': 'Idrissa Gana Gueye', 'substatValue': 0}",2.0,21,players,fraction,number
+1052898,8586,"{'name': 'Iyenoma Udogie', 'substatValue': 0}",2.0,22,players,fraction,number
+466672,9826,"{'name': 'Jefferson Lerma', 'substatValue': 0}",2.0,23,players,fraction,number
+503659,9826,"{'name': 'Joachim Andersen', 'substatValue': 0}",2.0,24,players,fraction,number
+535936,10261,"{'name': 'Joelinton', 'substatValue': 0}",2.0,25,players,fraction,number
+154280,9826,"{'name': 'Jordan Ayew', 'substatValue': 0}",2.0,26,players,fraction,number
+749736,9825,"{'name': 'Kai Havertz', 'substatValue': 0}",2.0,27,players,fraction,number
+562892,9937,"{'name': 'Rico Henry', 'substatValue': 0}",2.0,28,players,fraction,number
+675088,8456,"{'name': 'Rodri', 'substatValue': 0}",2.0,29,players,fraction,number
+775614,10203,"{'name': 'Ryan Yates', 'substatValue': 0}",2.0,30,players,fraction,number
+246331,10203,"{'name': 'Willy Boly', 'substatValue': 0}",2.0,31,players,fraction,number
+724306,8586,"{'name': 'Yves Bissouma', 'substatValue': 0}",2.0,32,players,fraction,number
+787350,10252,"{'name': 'Douglas Luiz', 'substatValue': 1}",1.0,33,players,fraction,number
+268375,10252,"{'name': 'Emiliano Martinez', 'substatValue': 1}",1.0,34,players,fraction,number
+1137705,8455,"{'name': 'Enzo Fernández', 'substatValue': 1}",1.0,35,players,fraction,number
+862608,10204,"{'name': 'Kaoru Mitoma', 'substatValue': 1}",1.0,36,players,fraction,number
+210111,10252,"{'name': 'Lucas Digne', 'substatValue': 1}",1.0,37,players,fraction,number
+1197347,8455,"{'name': 'Nicolas Jackson', 'substatValue': 1}",1.0,38,players,fraction,number
+956682,10261,"{'name': 'Sven Botman', 'substatValue': 1}",1.0,39,players,fraction,number
+1279764,8191,"{'name': 'Ameen Al Dakhil', 'substatValue': 0}",1.0,40,players,fraction,number
+357880,8650,"{'name': 'Andrew Robertson', 'substatValue': 0}",1.0,41,players,fraction,number
+484878,8191,"{'name': 'Connor Roberts', 'substatValue': 0}",1.0,42,players,fraction,number
+966027,8455,"{'name': 'Conor Gallagher', 'substatValue': 0}",1.0,43,players,fraction,number
+935379,8586,"{'name': 'Dejan Kulusevski', 'substatValue': 0}",1.0,44,players,fraction,number
+591734,8678,"{'name': 'Dominic Solanke', 'substatValue': 0}",1.0,45,players,fraction,number
+818975,9826,"{'name': 'Eberechi Eze', 'substatValue': 0}",1.0,46,players,fraction,number
+797908,8586,"{'name': 'Emerson Royal', 'substatValue': 0}",1.0,47,players,fraction,number
+1140003,8678,"{'name': 'Illia Zabarnyi', 'substatValue': 0}",1.0,48,players,fraction,number
+146830,9826,"{'name': 'Joel Ward', 'substatValue': 0}",1.0,49,players,fraction,number
+295062,8657,"{'name': 'John Egan', 'substatValue': 0}",1.0,50,players,fraction,number
+974753,8456,"{'name': 'Julián Álvarez', 'substatValue': 0}",1.0,51,players,fraction,number
+191869,10261,"{'name': 'Kieran Trippier', 'substatValue': 0}",1.0,52,players,fraction,number
+281207,8654,"{'name': 'Kurt Zouma', 'substatValue': 0}",1.0,53,players,fraction,number
+201690,10204,"{'name': 'Lewis Dunk', 'substatValue': 0}",1.0,54,players,fraction,number
+541330,8346,"{'name': 'Marvelous Nakamba', 'substatValue': 0}",1.0,55,players,fraction,number
+789502,10203,"{'name': 'Morgan Gibbs-White', 'substatValue': 0}",1.0,56,players,fraction,number
+617310,8654,"{'name': 'Naif Aguerd', 'substatValue': 0}",1.0,57,players,fraction,number
+1112684,8668,"{'name': 'Nathan Patterson', 'substatValue': 0}",1.0,58,players,fraction,number
+637746,9826,"{'name': 'Odsonne Edouard', 'substatValue': 0}",1.0,59,players,fraction,number
+210971,8657,"{'name': 'Oliver Norwood', 'substatValue': 0}",1.0,60,players,fraction,number
+491883,8654,"{'name': 'Said Benrahma', 'substatValue': 0}",1.0,61,players,fraction,number
+556972,9879,"{'name': 'Sasa Lukic', 'substatValue': 0}",1.0,62,players,fraction,number
+551805,10203,"{'name': 'Scott McKenna', 'substatValue': 0}",1.0,63,players,fraction,number
+369761,8346,"{'name': 'Tom Lockyer', 'substatValue': 0}",1.0,64,players,fraction,number
+524437,8654,"{'name': 'Tomas Soucek', 'substatValue': 0}",1.0,65,players,fraction,number
+688273,9937,"{'name': 'Vitaly Janelt', 'substatValue': 0}",1.0,66,players,fraction,number
+905498,8191,"{'name': 'Vitinho', 'substatValue': 0}",1.0,67,players,fraction,number
+955406,9825,"{'name': 'William Saliba', 'substatValue': 0}",1.0,68,players,fraction,number

@@ -1,0 +1,38 @@
+id,teamId,nameAndSubstatValue,statValue,rank,type,statFormat,substatFormat
+831489,8650,"{'name': 'Alexis Mac Allister', 'substatValue': '3.0'}",3.0,1,players,fraction,fraction
+434325,9825,"{'name': 'Thomas Partey', 'substatValue': '3.0'}",2.0,2,players,fraction,fraction
+1185748,8668,"{'name': 'Amadou Onana', 'substatValue': '2.0'}",2.0,3,players,fraction,fraction
+199494,8657,"{'name': 'George Baldock', 'substatValue': '1.0'}",2.0,4,players,fraction,fraction
+488139,8456,"{'name': 'Bernardo Silva', 'substatValue': '0.0'}",2.0,5,players,fraction,fraction
+179410,8668,"{'name': 'Idrissa Gana Gueye', 'substatValue': '8.0'}",1.0,6,players,fraction,fraction
+675088,8456,"{'name': 'Rodri', 'substatValue': '6.0'}",1.0,7,players,fraction,fraction
+613182,8678,"{'name': 'Joe Rothwell', 'substatValue': '5.0'}",1.0,8,players,fraction,fraction
+797908,8586,"{'name': 'Emerson Royal', 'substatValue': '4.0'}",1.0,9,players,fraction,fraction
+214570,9826,"{'name': 'Jeffrey Schlupp', 'substatValue': '4.0'}",1.0,10,players,fraction,fraction
+146830,9826,"{'name': 'Joel Ward', 'substatValue': '4.0'}",1.0,11,players,fraction,fraction
+935379,8586,"{'name': 'Dejan Kulusevski', 'substatValue': '3.0'}",1.0,12,players,fraction,fraction
+862608,10204,"{'name': 'Kaoru Mitoma', 'substatValue': '3.0'}",1.0,13,players,fraction,fraction
+534670,9825,"{'name': 'Martin Ødegaard', 'substatValue': '3.0'}",1.0,14,players,fraction,fraction
+724306,8586,"{'name': 'Yves Bissouma', 'substatValue': '3.0'}",1.0,15,players,fraction,fraction
+604785,8668,"{'name': 'Alex Iwobi', 'substatValue': '2.0'}",1.0,16,players,fraction,fraction
+816325,10252,"{'name': 'Boubacar Kamara', 'substatValue': '2.0'}",1.0,17,players,fraction,fraction
+562725,8346,"{'name': 'Carlton Morris', 'substatValue': '2.0'}",1.0,18,players,fraction,fraction
+789578,8191,"{'name': ""Dara O'Shea"", 'substatValue': '2.0'}",1.0,19,players,fraction,fraction
+818975,9826,"{'name': 'Eberechi Eze', 'substatValue': '2.0'}",1.0,20,players,fraction,fraction
+1137705,8455,"{'name': 'Enzo Fernández', 'substatValue': '2.0'}",1.0,21,players,fraction,fraction
+710159,10252,"{'name': 'Ezri Konsa', 'substatValue': '2.0'}",1.0,22,players,fraction,fraction
+535936,10261,"{'name': 'Joelinton', 'substatValue': '2.0'}",1.0,23,players,fraction,fraction
+623716,8191,"{'name': 'Josh Cullen', 'substatValue': '2.0'}",1.0,24,players,fraction,fraction
+1195281,8678,"{'name': 'Milos Kerkez', 'substatValue': '2.0'}",1.0,25,players,fraction,fraction
+562892,9937,"{'name': 'Rico Henry', 'substatValue': '2.0'}",1.0,26,players,fraction,fraction
+352887,8668,"{'name': 'Abdoulaye Doucouré', 'substatValue': '1.0'}",1.0,27,players,fraction,fraction
+923312,9937,"{'name': 'Bryan Mbeumo', 'substatValue': '1.0'}",1.0,28,players,fraction,fraction
+484878,8191,"{'name': 'Connor Roberts', 'substatValue': '1.0'}",1.0,29,players,fraction,fraction
+787350,10252,"{'name': 'Douglas Luiz', 'substatValue': '1.0'}",1.0,30,players,fraction,fraction
+1052898,8586,"{'name': 'Iyenoma Udogie', 'substatValue': '1.0'}",1.0,31,players,fraction,fraction
+154280,9826,"{'name': 'Jordan Ayew', 'substatValue': '1.0'}",1.0,32,players,fraction,fraction
+974753,8456,"{'name': 'Julián Álvarez', 'substatValue': '1.0'}",1.0,33,players,fraction,fraction
+167008,10204,"{'name': 'Pascal Gross', 'substatValue': '1.0'}",1.0,34,players,fraction,fraction
+267371,8654,"{'name': 'Emerson', 'substatValue': '0.0'}",1.0,35,players,fraction,fraction
+711357,9937,"{'name': 'Ethan Pinnock', 'substatValue': '0.0'}",1.0,36,players,fraction,fraction
+524437,8654,"{'name': 'Tomas Soucek', 'substatValue': '0.0'}",1.0,37,players,fraction,fraction

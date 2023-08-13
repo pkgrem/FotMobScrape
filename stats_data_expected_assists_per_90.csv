@@ -1,0 +1,126 @@
+id,teamId,nameAndSubstatValue,statValue,rank,type,statFormat,substatFormat
+493165,8586,"{'name': 'James Maddison', 'substatValue': '2.0'}",0.95,1,players,fraction,fraction
+688278,10204,"{'name': 'Pervis Estupinán', 'substatValue': '1.0'}",0.86,2,players,fraction,fraction
+862608,10204,"{'name': 'Kaoru Mitoma', 'substatValue': '1.0'}",0.62,3,players,fraction,fraction
+562892,9937,"{'name': 'Rico Henry', 'substatValue': '1.0'}",0.62,4,players,fraction,fraction
+201690,10204,"{'name': 'Lewis Dunk', 'substatValue': '0.0'}",0.59,5,players,fraction,fraction
+167008,10204,"{'name': 'Pascal Gross', 'substatValue': '0.0'}",0.46,6,players,fraction,fraction
+154280,9826,"{'name': 'Jordan Ayew', 'substatValue': '1.0'}",0.45,7,players,fraction,fraction
+818975,9826,"{'name': 'Eberechi Eze', 'substatValue': '0.0'}",0.41,8,players,fraction,fraction
+1185748,8668,"{'name': 'Amadou Onana', 'substatValue': '0.0'}",0.38,9,players,fraction,fraction
+974753,8456,"{'name': 'Julián Álvarez', 'substatValue': '1.0'}",0.37,10,players,fraction,fraction
+935379,8586,"{'name': 'Dejan Kulusevski', 'substatValue': '0.0'}",0.36,11,players,fraction,fraction
+523825,8654,"{'name': 'Jarrod Bowen', 'substatValue': '0.0'}",0.35,12,players,fraction,fraction
+604785,8668,"{'name': 'Alex Iwobi', 'substatValue': '0.0'}",0.28,13,players,fraction,fraction
+933635,8346,"{'name': 'Ryan Giles', 'substatValue': '0.0'}",0.28,14,players,fraction,fraction
+491883,8654,"{'name': 'Said Benrahma', 'substatValue': '0.0'}",0.27,15,players,fraction,fraction
+191869,10261,"{'name': 'Kieran Trippier', 'substatValue': '0.0'}",0.26,16,players,fraction,fraction
+956682,10261,"{'name': 'Sven Botman', 'substatValue': '1.0'}",0.25,17,players,fraction,fraction
+267371,8654,"{'name': 'Emerson', 'substatValue': '0.0'}",0.25,18,players,fraction,fraction
+749736,9825,"{'name': 'Kai Havertz', 'substatValue': '0.0'}",0.24,19,players,fraction,fraction
+831489,8650,"{'name': 'Alexis Mac Allister', 'substatValue': '0.0'}",0.22,20,players,fraction,fraction
+789502,10203,"{'name': 'Morgan Gibbs-White', 'substatValue': '0.0'}",0.21,21,players,fraction,fraction
+494417,9879,"{'name': 'Harry Wilson', 'substatValue': '0.0'}",0.20,22,players,fraction,fraction
+675088,8456,"{'name': 'Rodri', 'substatValue': '1.0'}",0.17,23,players,fraction,fraction
+961995,9825,"{'name': 'Bukayo Saka', 'substatValue': '0.0'}",0.17,24,players,fraction,fraction
+535936,10261,"{'name': 'Joelinton', 'substatValue': '0.0'}",0.16,25,players,fraction,fraction
+307317,8654,"{'name': 'Vladimir Coufal', 'substatValue': '0.0'}",0.16,26,players,fraction,fraction
+210111,10252,"{'name': 'Lucas Digne', 'substatValue': '0.0'}",0.15,27,players,fraction,fraction
+815006,8456,"{'name': 'Phil Foden', 'substatValue': '0.0'}",0.15,28,players,fraction,fraction
+591734,8678,"{'name': 'Dominic Solanke', 'substatValue': '0.0'}",0.14,29,players,fraction,fraction
+787350,10252,"{'name': 'Douglas Luiz', 'substatValue': '0.0'}",0.14,30,players,fraction,fraction
+797908,8586,"{'name': 'Emerson Royal', 'substatValue': '0.0'}",0.14,31,players,fraction,fraction
+637746,9826,"{'name': 'Odsonne Edouard', 'substatValue': '0.0'}",0.14,32,players,fraction,fraction
+352887,8668,"{'name': 'Abdoulaye Doucouré', 'substatValue': '0.0'}",0.11,33,players,fraction,fraction
+1137705,8455,"{'name': 'Enzo Fernández', 'substatValue': '0.0'}",0.11,34,players,fraction,fraction
+503659,9826,"{'name': 'Joachim Andersen', 'substatValue': '0.0'}",0.11,35,players,fraction,fraction
+724306,8586,"{'name': 'Yves Bissouma', 'substatValue': '0.0'}",0.11,36,players,fraction,fraction
+540088,10252,"{'name': 'Ollie Watkins', 'substatValue': '1.0'}",0.10,37,players,fraction,fraction
+23354,8668,"{'name': 'Ashley Young', 'substatValue': '0.0'}",0.10,38,players,fraction,fraction
+846005,8650,"{'name': 'Dominik Szoboszlai', 'substatValue': '0.0'}",0.10,39,players,fraction,fraction
+562725,8346,"{'name': 'Carlton Morris', 'substatValue': '0.0'}",0.09,40,players,fraction,fraction
+214570,9826,"{'name': 'Jeffrey Schlupp', 'substatValue': '0.0'}",0.09,41,players,fraction,fraction
+534670,9825,"{'name': 'Martin Ødegaard', 'substatValue': '0.0'}",0.09,42,players,fraction,fraction
+210971,8657,"{'name': 'Oliver Norwood', 'substatValue': '0.0'}",0.09,43,players,fraction,fraction
+502420,9879,"{'name': 'Harrison Reed', 'substatValue': '0.0'}",0.08,44,players,fraction,fraction
+80562,8455,"{'name': 'Thiago Silva', 'substatValue': '0.0'}",0.07,45,players,fraction,fraction
+532743,8678,"{'name': 'Philip Billing', 'substatValue': '0.0'}",0.06,46,players,fraction,fraction
+434325,9825,"{'name': 'Thomas Partey', 'substatValue': '0.0'}",0.06,47,players,fraction,fraction
+1195281,8678,"{'name': 'Milos Kerkez', 'substatValue': '0.0'}",0.05,48,players,fraction,fraction
+1052898,8586,"{'name': 'Iyenoma Udogie', 'substatValue': '0.0'}",0.04,49,players,fraction,fraction
+613182,8678,"{'name': 'Joe Rothwell', 'substatValue': '0.0'}",0.04,50,players,fraction,fraction
+955406,9825,"{'name': 'William Saliba', 'substatValue': '1.0'}",0.03,51,players,fraction,fraction
+776151,9825,"{'name': 'Ben White', 'substatValue': '0.0'}",0.03,52,players,fraction,fraction
+488139,8456,"{'name': 'Bernardo Silva', 'substatValue': '0.0'}",0.03,53,players,fraction,fraction
+923312,9937,"{'name': 'Bryan Mbeumo', 'substatValue': '0.0'}",0.03,54,players,fraction,fraction
+951954,9826,"{'name': 'Cheick Oumar Doucouré', 'substatValue': '0.0'}",0.03,55,players,fraction,fraction
+654096,9825,"{'name': 'Declan Rice', 'substatValue': '0.0'}",0.03,56,players,fraction,fraction
+179410,8668,"{'name': 'Idrissa Gana Gueye', 'substatValue': '0.0'}",0.03,57,players,fraction,fraction
+243138,8668,"{'name': 'James Tarkowski', 'substatValue': '0.0'}",0.03,58,players,fraction,fraction
+1097466,8586,"{'name': 'Micky van de Ven', 'substatValue': '0.0'}",0.03,59,players,fraction,fraction
+905498,8191,"{'name': 'Vitinho', 'substatValue': '0.0'}",0.03,60,players,fraction,fraction
+246331,10203,"{'name': 'Willy Boly', 'substatValue': '0.0'}",0.03,61,players,fraction,fraction
+816325,10252,"{'name': 'Boubacar Kamara', 'substatValue': '0.0'}",0.02,62,players,fraction,fraction
+966027,8455,"{'name': 'Conor Gallagher', 'substatValue': '0.0'}",0.02,63,players,fraction,fraction
+466672,9826,"{'name': 'Jefferson Lerma', 'substatValue': '0.0'}",0.02,64,players,fraction,fraction
+146830,9826,"{'name': 'Joel Ward', 'substatValue': '0.0'}",0.02,65,players,fraction,fraction
+469804,9879,"{'name': 'Kenny Tete', 'substatValue': '0.0'}",0.02,66,players,fraction,fraction
+290410,8668,"{'name': 'Michael Keane', 'substatValue': '0.0'}",0.02,67,players,fraction,fraction
+760712,8650,"{'name': 'Trent Alexander-Arnold', 'substatValue': '0.0'}",0.02,68,players,fraction,fraction
+1120224,9826,"{'name': 'Tyrick Mitchell', 'substatValue': '0.0'}",0.02,69,players,fraction,fraction
+209405,8650,"{'name': 'Virgil van Dijk', 'substatValue': '0.0'}",0.02,70,players,fraction,fraction
+524437,8654,"{'name': 'Tomas Soucek', 'substatValue': '1.0'}",0.01,71,players,fraction,fraction
+1279764,8191,"{'name': 'Ameen Al Dakhil', 'substatValue': '0.0'}",0.01,72,players,fraction,fraction
+357880,8650,"{'name': 'Andrew Robertson', 'substatValue': '0.0'}",0.01,73,players,fraction,fraction
+662428,9879,"{'name': 'Antonee Robinson', 'substatValue': '0.0'}",0.01,74,players,fraction,fraction
+696646,8455,"{'name': 'Axel Disasi', 'substatValue': '0.0'}",0.01,75,players,fraction,fraction
+484878,8191,"{'name': 'Connor Roberts', 'substatValue': '0.0'}",0.01,76,players,fraction,fraction
+188058,10261,"{'name': 'Daniel Burn', 'substatValue': '0.0'}",0.01,77,players,fraction,fraction
+363364,8456,"{'name': 'Ederson Moraes', 'substatValue': '0.0'}",0.01,78,players,fraction,fraction
+710159,10252,"{'name': 'Ezri Konsa', 'substatValue': '0.0'}",0.01,79,players,fraction,fraction
+199494,8657,"{'name': 'George Baldock', 'substatValue': '0.0'}",0.01,80,players,fraction,fraction
+1140003,8678,"{'name': 'Illia Zabarnyi', 'substatValue': '0.0'}",0.01,81,players,fraction,fraction
+696443,9879,"{'name': 'Issa Diop', 'substatValue': '0.0'}",0.01,82,players,fraction,fraction
+295062,8657,"{'name': 'John Egan', 'substatValue': '0.0'}",0.01,83,players,fraction,fraction
+303919,8668,"{'name': 'Jordan Pickford', 'substatValue': '0.0'}",0.01,84,players,fraction,fraction
+623716,8191,"{'name': 'Josh Cullen', 'substatValue': '0.0'}",0.01,85,players,fraction,fraction
+1096400,8455,"{'name': 'Levi Colwill', 'substatValue': '0.0'}",0.01,86,players,fraction,fraction
+521318,8456,"{'name': 'Manuel Akanji', 'substatValue': '0.0'}",0.01,87,players,fraction,fraction
+541330,8346,"{'name': 'Marvelous Nakamba', 'substatValue': '0.0'}",0.01,88,players,fraction,fraction
+961306,9937,"{'name': 'Nathan Collins', 'substatValue': '0.0'}",0.01,89,players,fraction,fraction
+1112684,8668,"{'name': 'Nathan Patterson', 'substatValue': '0.0'}",0.01,90,players,fraction,fraction
+176186,8678,"{'name': 'Neto', 'substatValue': '0.0'}",0.01,91,players,fraction,fraction
+1197347,8455,"{'name': 'Nicolas Jackson', 'substatValue': '0.0'}",0.01,92,players,fraction,fraction
+654908,8586,"{'name': 'Richarlison', 'substatValue': '0.0'}",0.01,93,players,fraction,fraction
+775614,10203,"{'name': 'Ryan Yates', 'substatValue': '0.0'}",0.01,94,players,fraction,fraction
+556972,9879,"{'name': 'Sasa Lukic', 'substatValue': '0.0'}",0.01,95,players,fraction,fraction
+688273,9937,"{'name': 'Vitaly Janelt', 'substatValue': '0.0'}",0.01,96,players,fraction,fraction
+1258092,8657,"{'name': 'William Osula', 'substatValue': '0.0'}",0.01,97,players,fraction,fraction
+746395,9825,"{'name': 'Aaron Ramsdale', 'substatValue': '0.0'}",0.00,98,players,fraction,fraction
+319784,8650,"{'name': 'Alisson Becker', 'substatValue': '0.0'}",0.00,99,players,fraction,fraction
+210164,8654,"{'name': 'Alphonse Areola', 'substatValue': '0.0'}",0.00,100,players,fraction,fraction
+471271,8346,"{'name': ""Amari'i Bell"", 'substatValue': '0.0'}",0.00,101,players,fraction,fraction
+793820,8657,"{'name': 'Anel Ahmedhodzic', 'substatValue': '0.0'}",0.00,102,players,fraction,fraction
+215168,9879,"{'name': 'Bernd Leno', 'substatValue': '0.0'}",0.00,103,players,fraction,fraction
+789578,8191,"{'name': ""Dara O'Shea"", 'substatValue': '0.0'}",0.00,104,players,fraction,fraction
+268375,10252,"{'name': 'Emiliano Martinez', 'substatValue': '0.0'}",0.00,105,players,fraction,fraction
+711357,9937,"{'name': 'Ethan Pinnock', 'substatValue': '0.0'}",0.00,106,players,fraction,fraction
+189982,10261,"{'name': 'Fabian Schär', 'substatValue': '0.0'}",0.00,107,players,fraction,fraction
+538501,8586,"{'name': 'Guglielmo Vicario', 'substatValue': '0.0'}",0.00,108,players,fraction,fraction
+820140,8650,"{'name': 'Ibrahima Konaté', 'substatValue': '0.0'}",0.00,109,players,fraction,fraction
+1187213,8191,"{'name': 'James Trafford', 'substatValue': '0.0'}",0.00,110,players,fraction,fraction
+974618,10204,"{'name': 'Jan Paul van Hecke', 'substatValue': '0.0'}",0.00,111,players,fraction,fraction
+107917,10204,"{'name': 'Jason Steele', 'substatValue': '0.0'}",0.00,112,players,fraction,fraction
+281207,8654,"{'name': 'Kurt Zouma', 'substatValue': '0.0'}",0.00,113,players,fraction,fraction
+330643,9937,"{'name': 'Mark Flekken', 'substatValue': '0.0'}",0.00,114,players,fraction,fraction
+729988,10203,"{'name': 'Matt Turner', 'substatValue': '0.0'}",0.00,115,players,fraction,fraction
+617310,8654,"{'name': 'Naif Aguerd', 'substatValue': '0.0'}",0.00,116,players,fraction,fraction
+280484,10261,"{'name': 'Nick Pope', 'substatValue': '0.0'}",0.00,117,players,fraction,fraction
+789571,8455,"{'name': 'Robert Sánchez', 'substatValue': '0.0'}",0.00,118,players,fraction,fraction
+280287,9826,"{'name': 'Sam Johnstone', 'substatValue': '0.0'}",0.00,119,players,fraction,fraction
+551805,10203,"{'name': 'Scott McKenna', 'substatValue': '0.0'}",0.00,120,players,fraction,fraction
+195299,10203,"{'name': 'Serge Aurier', 'substatValue': '0.0'}",0.00,121,players,fraction,fraction
+131408,8346,"{'name': 'Thomas Kaminski', 'substatValue': '0.0'}",0.00,122,players,fraction,fraction
+198444,9879,"{'name': 'Tim Ream', 'substatValue': '0.0'}",0.00,123,players,fraction,fraction
+369761,8346,"{'name': 'Tom Lockyer', 'substatValue': '0.0'}",0.00,124,players,fraction,fraction
+212944,8657,"{'name': 'Wesley Foderingham', 'substatValue': '0.0'}",0.00,125,players,fraction,fraction

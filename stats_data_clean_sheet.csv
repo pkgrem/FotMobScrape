@@ -1,0 +1,4 @@
+id,teamId,nameAndSubstatValue,statValue,rank,type,statFormat,substatFormat
+215168,9879,"{'name': 'Bernd Leno', 'substatValue': 0}",1,1,players,number,
+363364,8456,"{'name': 'Ederson Moraes', 'substatValue': 0}",1,2,players,number,
+280287,9826,"{'name': 'Sam Johnstone', 'substatValue': 0}",1,3,players,number,
